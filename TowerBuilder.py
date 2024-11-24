@@ -7,7 +7,7 @@ pygame.init()
 
 width = 600
 height = 800
-pygame.display.set_caption('Simple Stacking Game')
+pygame.display.set_caption('Simple Stacking Game') 
 display = pygame.display.set_mode((width, height))
 clock = pygame.time.Clock()
 
