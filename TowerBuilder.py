@@ -45,7 +45,7 @@ for image in unscaledContainers:
     containers.append(pygame.transform.scale(image, (brickW, brickH)))
 
 #background image
-backgroundImage = "C:/Users/Shine/Downloads/containerTowerAssets/blue_sky.jpg"
+backgroundImage = "containerTowerAssets/blue_sky.jpg"
 backgroundImage = pygame.image.load(backgroundImage).convert_alpha()
 backgroundImage = pygame.transform.scale(backgroundImage, (width, height))
 
