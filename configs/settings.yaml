@@ -1,0 +1,13 @@
+backgroundImage: containerTowerAssets/blue_sky.jpg
+hasMusic: true
+height: 800
+highScore: 0
+image_paths:
+- containerTowerAssets/blue_container.jpg
+- containerTowerAssets/grey_container.jpg
+- containerTowerAssets/orange_container.jpg
+- containerTowerAssets/green_container.jpg
+musicVolume: 0.25
+speed: 9
+timeLimit: 120
+width: 600
